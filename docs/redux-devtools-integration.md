@@ -7,7 +7,7 @@ If you've enabled `Debug JS remotely` with React Native Debugger, the following 
 - `window.__REDUX_DEVTOOLS_EXTENSION__`
 - `window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__`
 - `window.__REDUX_DEVTOOLS_EXTENSION__.connect`
-- You can just use [`redux-devtools-extension`](https://www.npmjs.com/package/redux-devtools-extension) npm package.
+- You can just use [`redux-devtools-extension`](https://www.npmjs.com/package/@redux-devtools/extension) npm package.
 
 See also:
 
