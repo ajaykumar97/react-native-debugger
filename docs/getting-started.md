@@ -51,7 +51,7 @@ If you want to have the feature (`rndebugger:` or another way), you are welcome 
 
 ## Use Redux DevTools Extension API
 
-Using the same API as [`redux-devtools-extension`](https://github.com/zalmoxisus/redux-devtools-extension#1-with-redux) is very simple:
+Using the same API as [`redux-devtools-extension`](https://github.com/reduxjs/redux-devtools/tree/main/extension#11-basic-store) is very simple:
 
 ```js
 const store = createStore(
